@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Claude-Skills-blueviolet?style=for-the-badge&logo=anthropic" alt="Claude Skills">
   <img src="https://img.shields.io/badge/Terminal-Focused-green?style=for-the-badge&logo=gnometerminal" alt="Terminal">
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/badge/Skills-59+-orange?style=for-the-badge" alt="Skills Count">
+  <img src="https://img.shields.io/badge/Skills-63+-orange?style=for-the-badge" alt="Skills Count">
 </p>
 
 <h1 align="center">🖥️ Terminal Skills</h1>
@@ -50,8 +50,9 @@ Terminal Skills is a comprehensive collection of [Claude Skills](https://docs.an
 | 💾 **Backup** | rsync, tar, snapshots, cloud backup, disaster recovery | 6 |
 | 🔒 **Security** | Firewall, SSL/TLS, audit, system hardening | 4 |
 | 📊 **Performance** | Benchmarking, profiling, tuning, troubleshooting | 4 |
+| 🦀 **OpenClaw** | Installation, configuration, troubleshooting, maintenance | 4 |
 
-**Total: 59 Skills**
+**Total: 63 Skills**
 
 ## 🚀 Quick Start
 
@@ -231,6 +232,15 @@ Common issues and solutions.
 | [profiling](./performance/profiling) | Application profiling |
 | [tuning](./performance/tuning) | System and application tuning |
 | [troubleshooting](./performance/troubleshooting) | Performance issue diagnosis |
+
+### 🦀 OpenClaw
+
+| Skill | Description |
+|-------|-------------|
+| [installation](./openclaw/installation) | OpenClaw installation and deployment |
+| [configuration](./openclaw/configuration) | Configuration management and tuning |
+| [troubleshooting](./openclaw/troubleshooting) | Diagnostics and problem solving |
+| [maintenance](./openclaw/maintenance) | Operations and fault repair |
 
 ## 🎯 Popular Skills
 

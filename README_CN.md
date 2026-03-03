@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Claude-Skills-blueviolet?style=for-the-badge&logo=anthropic" alt="Claude Skills">
   <img src="https://img.shields.io/badge/Terminal-Focused-green?style=for-the-badge&logo=gnometerminal" alt="Terminal">
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/badge/Skills-59+-orange?style=for-the-badge" alt="Skills Count">
+  <img src="https://img.shields.io/badge/Skills-63+-orange?style=for-the-badge" alt="Skills Count">
 </p>
 
 <h1 align="center">🖥️ Terminal Skills</h1>
@@ -50,8 +50,9 @@ Terminal Skills 是一个专为终端工作流设计的 [Claude Skills](https://
 | 💾 **备份** | rsync、tar、快照、云备份、灾难恢复 | 6 |
 | 🔒 **安全** | 防火墙、SSL/TLS、审计、系统加固 | 4 |
 | 📊 **性能** | 基准测试、性能分析、调优、故障排查 | 4 |
+| 🦀 **OpenClaw** | 安装部署、配置管理、问题排查、运维修复 | 4 |
 
-**总计：59 个技能**
+**总计：63 个技能**
 
 ## 🚀 快速开始
 
@@ -231,6 +232,15 @@ tags: [tag1, tag2, tag3]
 | [profiling](./performance/profiling) | 应用性能分析 |
 | [tuning](./performance/tuning) | 系统和应用调优 |
 | [troubleshooting](./performance/troubleshooting) | 性能问题诊断 |
+
+### 🦀 OpenClaw
+
+| 技能 | 描述 |
+|------|------|
+| [installation](./openclaw/installation) | OpenClaw 安装与部署 |
+| [configuration](./openclaw/configuration) | 配置管理与调优 |
+| [troubleshooting](./openclaw/troubleshooting) | 问题排查与诊断 |
+| [maintenance](./openclaw/maintenance) | 运维与故障修复 |
 
 ## 🎯 热门技能
 
