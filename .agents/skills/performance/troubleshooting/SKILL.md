@@ -1,5 +1,5 @@
 ---
-name: troubleshooting
+name: performance-troubleshooting
 description: 性能问题排查
 version: 1.0.0
 author: terminal-skills

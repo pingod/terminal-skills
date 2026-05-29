@@ -1,5 +1,5 @@
 ---
-name: troubleshooting
+name: openclaw-troubleshooting
 description: OpenClaw 问题排查与诊断
 version: 1.0.0
 author: terminal-skills

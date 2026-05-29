@@ -1,5 +1,5 @@
 ---
-name: troubleshooting
+name: kubernetes-troubleshooting
 description: Kubernetes 故障排查
 version: 1.0.0
 author: terminal-skills
